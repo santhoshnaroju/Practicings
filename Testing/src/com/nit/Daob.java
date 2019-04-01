@@ -8,6 +8,6 @@ void m2() {
 void m1() {
 
 int b=20;	
-
+String B="";
 }
 }
