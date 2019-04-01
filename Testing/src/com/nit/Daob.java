@@ -12,6 +12,6 @@ int b=20;
 String B="";
 
 String c="";
-
+ boolean d=false;
 }
 }
