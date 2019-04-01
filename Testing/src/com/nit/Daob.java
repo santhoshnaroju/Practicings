@@ -1,7 +1,9 @@
 package com.nit;
 
 public class Daob {
-void m3() {
-	
+
+void m2() {
 }
+
 }
+
